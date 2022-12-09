@@ -74,7 +74,7 @@ Hexo d
 gem install travis
 
 # 加密 Personal Access Token
-travis encrypt -r Mozkoe/mozkoe.github.io GH_Token=XXX
+travis encrypt -r mozkoe/mozkoe.github.io GH_Token=XXX
 ```
 
 第二条命令中 -r 后的参数是 GitHub 仓库的名字（<用户名>/<仓库名>）；GH_TOKEN 将作为环境变量使用。将这条命令输出的结果复制到 .travis.yml 文件下：
@@ -82,7 +82,7 @@ travis encrypt -r Mozkoe/mozkoe.github.io GH_Token=XXX
 ``` bash
 env:
   global:
-    - GH_REF: github.com/Mozkoe/mozkoe.github.io.git
+    - GH_REF: github.com/mozkoe/mozkoe.github.io.git
     - secure: "XXX"
 ```
 
@@ -91,7 +91,7 @@ env:
 
 #### 配置 .travis.yml
 
-具体可以参考我的 [个人配置](https://github.com/Mozkoe/mozkoe.github.io/blob/gh-pages/.travis.yml)。
+具体可以参考我的 [个人配置](https://github.com/mozkoe/mozkoe.github.io/blob/gh-pages/.travis.yml)。
 
 ## git init 项目文件
 

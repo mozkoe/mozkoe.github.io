@@ -24,8 +24,8 @@ after_script:
   - cp README.md ./public
   - cd ./public
   - git init
-  - git config user.name "mozkoe"
-  - git config user.email "mozkoe@live.com"
+  - git config user.name "${USER_NAME}"
+  - git config user.email "${EMAIL}"
   - git add .
   - git commit -m "Update docs"
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master

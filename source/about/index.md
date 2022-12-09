@@ -1,13 +1,13 @@
 ---
 title: aha
-date: 2018-01-25 13:17:42
+date: 2022-12-09 10:17:42
 type: "about"
 categories: ""
 tags: ""
 ---
  ______________
 
-< [mozkoe.com](https://mozkoe.com) >
+< [mozkoe](https://mozkoe.github.io) >
  --------------
 
         \   ^__^

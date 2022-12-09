@@ -13,10 +13,14 @@ since: 2014
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://mozkoe.com
+url: https://mozkoe.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+
+pretty_urls:
+  trailing_index: false
+  trailing_html: false
 
 # Directory
 source_dir: source
@@ -32,7 +36,7 @@ skip_render:
 new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
-external_link: true # Open external links in new tab
+external: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: false

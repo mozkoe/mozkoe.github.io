@@ -1,12 +1,13 @@
 ---
-title: aha
-type: "about"
-categories: ""
-tags: ""
+title: About me
+type: about
 ---
+ undefined
  ______________
 
-< [mozkoe](https://mozkoe.com) >
+ [🎮](https://steamcommunity.com/id/mozkoe/) Steam 玩家
+
+< [mozkoe.com](https://mozkoe.com/) >
  --------------
 
         \   ^__^

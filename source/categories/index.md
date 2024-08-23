@@ -1,6 +1,6 @@
 ---
 title: All categories
-type: "categories"
+type: categories
 categories:
 tags:
 comments: false

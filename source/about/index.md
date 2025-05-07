@@ -4,7 +4,7 @@ type: about
 ---
  mozkoe
 
- ![👾](/images/about_me_maple.png)
+ ![👾](/images/about_me_01.png)
 
  ______________
 

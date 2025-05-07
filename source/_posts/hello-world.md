@@ -4,7 +4,7 @@ categories:
  - tgif
 tags:
  - hexo
-permalink: /posts/hello-world/
+# permalink: /posts/hello-world/
 ---
 
 ![👾](/images/about_me_02.png)

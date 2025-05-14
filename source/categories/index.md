@@ -1,5 +1,5 @@
 ---
-title: All categories
+title: Categories
 type: categories
 categories:
 tags:

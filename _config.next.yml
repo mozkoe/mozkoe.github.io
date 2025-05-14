@@ -101,10 +101,10 @@ open_graph:
 # External url should start with http:// or https://
 menu:
   home: / || fa fa-home
-  archives: /archives/ || fa fa-archive
+  tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
+  archives: /archives/ || fa fa-archive
   about: /about/ || fa fa-user
-  # tags: /tags/ || fa fa-tags
   # schedule: /schedule/ || fa fa-calendar
   # sitemap: /sitemap.xml || fa fa-sitemap
   # commonweal: /404/ || fa fa-heartbeat
@@ -185,7 +185,7 @@ links_settings:
   layout: block
 
 links:
-  #Title: https://example.com
+  # Title: https://example.com
 
 # Table of Contents in the Sidebar
 # Front-matter variable (nonsupport wrap expand_all).
@@ -224,7 +224,7 @@ footer:
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
   # Set to `false` to disable the copyright statement.
-  copyright: © mozkoe.com
+  copyright: mozkoe.com
 
   # Powered by Hexo & NexT
   powered: false
@@ -258,8 +258,8 @@ post_meta:
   item_text: true
   created_at: true
   updated_at:
-    enable: true
-    another_day: true
+    enable: false
+    another_day: false
   categories: true
 
 # Post wordcount display settings
@@ -317,8 +317,8 @@ post_navigation: left
 
 # TagCloud settings for tags page.
 tagcloud:
-  min: 12 # Minimum font size in px
-  max: 30 # Maximum font size in px
+  min: 16 # Minimum font size in px
+  max: 24 # Maximum font size in px
   amount: 200 # Total amount of tags
   orderby: name # Order of tags
   order: 1 # Sort order

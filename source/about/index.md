@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About Me
 type: about
 ---
  mozkoe
@@ -9,7 +9,6 @@ type: about
  ______________
 
  [🎮](https://steamcommunity.com/id/mozkoe/) Steam 玩家
-
 
 < [mozkoe.com](https://mozkoe.com/) >
  --------------

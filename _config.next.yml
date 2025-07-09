@@ -164,6 +164,7 @@ site_state: true
 social:
   GitHub: https://github.com/mozkoe || fab fa-github
   Steam: https://steamcommunity.com/id/mozkoe/ || fab fa-steam
+  # About: /about/ || fa fa-user
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Twitter: https://twitter.com/yourname || fab fa-twitter
@@ -318,7 +319,7 @@ post_navigation: left
 # TagCloud settings for tags page.
 tagcloud:
   min: 16 # Minimum font size in px
-  max: 24 # Maximum font size in px
+  max: 16 # Maximum font size in px
   amount: 200 # Total amount of tags
   orderby: name # Order of tags
   order: 1 # Sort order
@@ -647,7 +648,7 @@ motion:
 # Progress bar in the top during page loading.
 # For more information: https://github.com/CodeByZach/pace
 pace:
-  enable: true
+  enable: false
   # All available colors:
   # black | blue | green | orange | pink | purple | red | silver | white | yellow
   color: silver

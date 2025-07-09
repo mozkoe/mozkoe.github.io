@@ -1,8 +1,8 @@
 ---
-title: About Me
+title:
 type: about
 ---
- mozkoe
+ [🍄](https://www.nexon.com/maplestory/) mozkoe
 
  ![👾](/images/about_me_01.png)
 

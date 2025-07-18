@@ -1,5 +1,5 @@
 ---
-title:
+title: 👾
 type: about
 ---
  [🍄](https://www.nexon.com/maplestory/) mozkoe

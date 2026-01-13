@@ -1,10 +1,16 @@
 ---
-title: 👾
+title: about
 type: about
+header: false
 ---
  [🍄](https://www.nexon.com/maplestory/) mozkoe
 
- ![👾](/images/about_me_01.png)
+  <img
+    src="https://i.stardots.io/mozkoe/StarDots_2026-01-13T11_18_56.1300Z_0412.gif"
+    alt=""
+    width="auto"
+    height="100"
+  />
 
  ______________
 
